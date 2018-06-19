@@ -6,3 +6,5 @@ make - Runs the arduino build via Docker
 Flash to a digispark device using e.g. micronucleus
 
 Happy birthday, Chris!
+
+Licensed under the WTFPL (http://www.wtfpl.net).
